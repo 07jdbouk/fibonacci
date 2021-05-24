@@ -1,0 +1,15 @@
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/bin/Debug/net5.0/recurseFibonacci.deps.json
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/bin/Debug/net5.0/recurseFibonacci.runtimeconfig.json
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/bin/Debug/net5.0/recurseFibonacci.runtimeconfig.dev.json
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/bin/Debug/net5.0/recurseFibonacci.dll
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/bin/Debug/net5.0/ref/recurseFibonacci.dll
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/bin/Debug/net5.0/recurseFibonacci.pdb
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/obj/Debug/net5.0/recurseFibonacci.csprojAssemblyReference.cache
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/obj/Debug/net5.0/recurseFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/obj/Debug/net5.0/recurseFibonacci.AssemblyInfoInputs.cache
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/obj/Debug/net5.0/recurseFibonacci.AssemblyInfo.cs
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/obj/Debug/net5.0/recurseFibonacci.csproj.CoreCompileInputs.cache
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/obj/Debug/net5.0/recurseFibonacci.dll
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/obj/Debug/net5.0/ref/recurseFibonacci.dll
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/obj/Debug/net5.0/recurseFibonacci.pdb
+/Users/yeet/_Documents/code/csharp/recurseFibonacci/obj/Debug/net5.0/recurseFibonacci.genruntimeconfig.cache
